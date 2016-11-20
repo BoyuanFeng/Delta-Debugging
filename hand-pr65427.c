@@ -1,0 +1,1 @@
+__attribute((vector_size(32))) a,b,d;f(int x,int y){do{if(x)d=a;else d=b;}while(y);}
